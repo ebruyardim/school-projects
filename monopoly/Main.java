@@ -1,4 +1,3 @@
-package ass3;
 
 import org.json.simple.*;
 import org.json.simple.parser.*;
