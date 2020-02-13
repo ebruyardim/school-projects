@@ -1,4 +1,3 @@
-package ass3;
 
 public class CommunityChestList extends Lists{
 
