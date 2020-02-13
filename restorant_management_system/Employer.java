@@ -1,4 +1,3 @@
-package ass2;
 
 public class Employer extends Worker{
 
