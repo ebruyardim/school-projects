@@ -117,7 +117,7 @@ while True:
     for i in chart:  # SHOW
         print(" ".join(i))
 
-    entry = input("Please enter a row and column number:")
+    entry = input("Please enter a row and column number(There should be a space between the numbers):")
     row = int(entry.split(" ")[0]) - 1
     column = int(entry.split(" ")[1]) -1
 
