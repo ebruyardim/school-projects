@@ -1,4 +1,3 @@
-package ass3;
 
 public class Land extends Properties{
 	
