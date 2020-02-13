@@ -1,4 +1,3 @@
-package ass3;
 
 import java.io.PrintStream;
 import java.io.PrintWriter;
