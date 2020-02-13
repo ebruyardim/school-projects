@@ -1,4 +1,3 @@
-package ass3;
 
 public class Properties{  // LAND, RAILROADS, COMPANY
 	
